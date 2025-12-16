@@ -1,1 +1,1 @@
-Document for the internship
+Document for the project
